@@ -1,0 +1,112 @@
+/* Body */
+
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+p {
+  color: #73777B;
+  font-family: "Montserrat" , sans-serif;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+}
+
+a:hover {
+  color: #73777B;
+}
+
+/*Headings*/
+
+.medium-heading {
+  font-family: "Unbounded" , cursive;
+  padding-bottom: 15px;
+}
+
+.small-heading {
+  font-family: "Montserrat-Black" , sans-serif;
+}
+
+/* Navigation Bar */
+
+.navbar{
+  padding: 1rem 1rem 0 1rem;
+}
+
+.navbar-logo {
+  width: 250px;
+}
+
+.navbar-item {
+  padding: 0 18px;
+}
+
+.navbar-link {
+  font-size: 1rem;
+  color: #73777B !important;
+}
+
+/* Title */
+
+#title {
+  height: 100%;
+  margin-bottom:90px;
+}
+
+.title {
+  padding: 5% 0;
+}
+
+.profile-pic {
+  margin: 5% 20% 0;
+  width: 60%;
+}
+
+.brand {
+  padding: 25% 0 10% 15%;
+  width: 85%;
+}
+
+/* About */
+
+#introduction {
+  background-color: #F7F7F7;
+  padding: 11% 0;
+}
+
+.intro-text {
+  margin: 0 20%;
+}
+
+.presentation {
+  margin: 10% 18% 0 18%;
+}
+
+.pres-col {
+  padding: 5px 20px;
+}
+
+.pres-title {
+  padding-top: 15px;
+}
+
+/* Get In Touch */
+
+#contact {
+  padding: 10% 0 5%;
+}
+
+.get-in-touch {
+  padding: 10px 0 40px;
+}
+
+/* Footer */
+
+.copyright {
+  padding: 40px 0 10px;
+  font-size: 0.8rem;
+}

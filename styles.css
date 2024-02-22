@@ -1,0 +1,37 @@
+/* Body */
+body {
+  padding: 10%;
+  background-color: #FED9ED;
+}
+
+h1 {
+  font-family: "La Belle Aurore", cursive;
+  color: #EE99C2;
+  text-align: center;
+}
+
+/* Question */
+#question {
+  color: #8E7AB5;
+  padding: 2%;
+  text-align: center;
+}
+
+/* Checkboxes */
+.checkboxes {
+  margin: auto;
+  width: 30%;
+}
+
+.form-check-label {
+  color: #EE99C2;
+}
+
+/* Picture */
+.pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  visibility: hidden;
+}
